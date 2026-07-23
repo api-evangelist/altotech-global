@@ -1,8 +1,26 @@
 aid: altotech-global
 name: AltoTech Global
-description: AltoTech Global is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: AltoTech Global is a Bangkok-based energy-management technology company building
+  an AI and IoT (AIoT) platform that optimizes energy consumption and reduces carbon emissions
+  across smart buildings. Its Alto CERO air-side and water-side products autonomously tune
+  HVAC, VRF, and chiller-plant systems based on real-time occupancy and conditions, while
+  Alto Digital Twin, Alto Multi-Property, and AltoACE deliver spatial building intelligence,
+  centralized multi-site energy tracking, and AI-assisted facility engineering. Backed by
+  500 Global, AltoTech serves offices, malls, hotels, banks, and government facilities across
+  Southeast Asia to help accelerate the net-zero economy.
 url: https://raw.githubusercontent.com/api-evangelist/altotech-global/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/xzEjM702TpgWFEvE2Asn9ldk.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,6 +32,14 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Energy
+- Sustainability
+- Internet of Things
+- Artificial Intelligence
+- Smart Buildings
+- Energy Management
+- HVAC
+- Net Zero
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +48,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://altotech.net
+  url: https://altotech.ai
+- type: Blog
+  url: https://altotech.ai/blog
+- type: Support
+  url: https://altotech.ai/contact
+- type: About
+  url: https://altotech.ai/about
+- type: LinkedIn
+  url: https://www.linkedin.com/company/altotechai
+- type: DomainSecurity
+  url: security/altotech-global-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
