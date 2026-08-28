@@ -9,6 +9,17 @@ description: AltoTech Global is a Bangkok-based energy-management technology com
   500 Global, AltoTech serves offices, malls, hotels, banks, and government facilities across
   Southeast Asia to help accelerate the net-zero economy.
 url: https://raw.githubusercontent.com/api-evangelist/altotech-global/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
